@@ -1,0 +1,16 @@
+class countTime
+  - 5 arrays- dynamic size. Initalized and copied in setUp
+- method for each of 5 sorts
+  - QuickSort
+  - MergeSort
+  - Selection Sort
+  - Insertion Sort
+  - Bubble Sort
+    - Then output it's name, time started, and time ended
+ - method for setUp
+  - open file
+  - takes file name
+  - first line is size of array - initialize
+  - loop for remaining lines/size to insert numbers 
+  - close file
+count the time
